@@ -1,0 +1,45 @@
+{
+  "buildFiles": [
+    "/Users/sanwuwy/Github/android-7zip/sevenzip/src/main/jni/CMakeLists.txt",
+    "/Users/sanwuwy/Github/android-7zip/sevenzip/src/main/jni/lzma1805/C/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/sanwuwy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+      "-C",
+      "/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/101h4g63/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/sanwuwy/Library/Android/sdk/cmake/3.18.1/bin/ninja",
+    "-C",
+    "/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/101h4g63/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "lzma1805::@938632925d1d9faa8300": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "lzma1805",
+      "output": "/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/101h4g63/arm64-v8a/lzma1805/C/liblzma1805.a"
+    },
+    "native-lib::@6890427a1f51a3e7e1df": {
+      "toolchain": "toolchain",
+      "abi": "arm64-v8a",
+      "artifactName": "native-lib",
+      "output": "/Users/sanwuwy/Github/android-7zip/sevenzip/build/intermediates/cxx/Debug/101h4g63/obj/arm64-v8a/libnative-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "toolchain": {
+      "cCompilerExecutable": "/Users/sanwuwy/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/sanwuwy/Library/Android/sdk/ndk/16.1.4479499/toolchains/aarch64-linux-android-4.9/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

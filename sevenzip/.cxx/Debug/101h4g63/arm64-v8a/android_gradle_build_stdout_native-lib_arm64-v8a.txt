@@ -1,0 +1,2 @@
+ninja: Entering directory `/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/101h4g63/arm64-v8a'
+ninja: no work to do.

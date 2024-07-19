@@ -1,0 +1,11 @@
+# ninja log v5
+0	253	1698891205	lzma1805/C/CMakeFiles/lzma1805.dir/Alloc.c.o	af55efe4bd2ac7fd
+3	257	1698891205	lzma1805/C/CMakeFiles/lzma1805.dir/7zStream.c.o	761aaa74fe9e1f83
+0	259	1698891205	CMakeFiles/native-lib.dir/lzmaSdkBirdge.c.o	48d6b4f12b51b17d
+3	266	1698891205	lzma1805/C/CMakeFiles/lzma1805.dir/7zFile.c.o	427d969079967ae7
+0	272	1698891205	CMakeFiles/native-lib.dir/lzmaSdkExecutor.c.o	e52f12ccd1b77ce8
+1	290	1698891205	lzma1805/C/CMakeFiles/lzma1805.dir/LzFind.c.o	4edd13bba836898f
+1	308	1698891205	lzma1805/C/CMakeFiles/lzma1805.dir/LzmaDec.c.o	c130641c8b551d14
+2	363	1698891205	lzma1805/C/CMakeFiles/lzma1805.dir/LzmaEnc.c.o	e6b2d013cd4a27
+363	1310	1698891206	lzma1805/C/liblzma1805.a	91a4a3d5bbc6dee4
+1310	1365	1698891206	/Users/sanwuwy/Github/android-7zip/sevenzip/build/intermediates/cxx/Debug/101h4g63/obj/arm64-v8a/libnative-lib.so	cc4f24f9ea120cc3

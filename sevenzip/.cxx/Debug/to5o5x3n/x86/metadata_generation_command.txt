@@ -1,0 +1,23 @@
+                    Executable : /Users/sanwuwy/Library/Android/sdk/cmake/3.18.1/bin/cmake
+arguments : 
+-H/Users/sanwuwy/Github/android-7zip/sevenzip/src/main/jni
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=14
+-DANDROID_PLATFORM=android-14
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/sanwuwy/Library/Android/sdk/ndk/16.1.4479499
+-DCMAKE_ANDROID_NDK=/Users/sanwuwy/Library/Android/sdk/ndk/16.1.4479499
+-DCMAKE_TOOLCHAIN_FILE=/Users/sanwuwy/Library/Android/sdk/ndk/16.1.4479499/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/sanwuwy/Library/Android/sdk/cmake/3.18.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/sanwuwy/Github/android-7zip/sevenzip/build/intermediates/cxx/Debug/to5o5x3n/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/sanwuwy/Github/android-7zip/sevenzip/build/intermediates/cxx/Debug/to5o5x3n/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-B/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/to5o5x3n/x86
+-GNinja
+jvmArgs : 
+
+
+                    Build command args: []
+                    Version: 2

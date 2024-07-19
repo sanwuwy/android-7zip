@@ -1,0 +1,6 @@
+/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/p231b3i6/x86/CMakeFiles/rebuild_cache.dir
+/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/p231b3i6/x86/CMakeFiles/edit_cache.dir
+/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/p231b3i6/x86/CMakeFiles/native-lib.dir
+/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/p231b3i6/x86/lzma1805/C/CMakeFiles/rebuild_cache.dir
+/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/p231b3i6/x86/lzma1805/C/CMakeFiles/edit_cache.dir
+/Users/sanwuwy/Github/android-7zip/sevenzip/.cxx/Debug/p231b3i6/x86/lzma1805/C/CMakeFiles/lzma1805.dir
